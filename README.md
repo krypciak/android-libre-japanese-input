@@ -68,6 +68,7 @@ docker exec -it mozc_build bash
 git checkout ddd9730b068387631e3b4d212314ef0ed93befe0
 git submodule deinit -f .
 git submodule update --init --recursive
+# INSTALL bazel 6.4.0 to work
 bazel build package --config oss_android -c opt
 bazel build //data_manager/oss:mozc_dataset_for_oss --config linux
 exit
