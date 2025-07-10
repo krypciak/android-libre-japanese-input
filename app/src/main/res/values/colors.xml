@@ -32,7 +32,7 @@
 <resources>
   <color name="pref_inputstyle_title">#FFD8D8D8</color>
   <color name="pref_inputstyle_title_disabled">#80D8D8D8</color>
-  <color name="input_frame_background">#e5e5e5</color>
+  <color name="input_frame_background">#000000</color>
 
   <!-- Floating candidate window. -->
   <color name="floating_candidate_window_background">#eceff1</color>
