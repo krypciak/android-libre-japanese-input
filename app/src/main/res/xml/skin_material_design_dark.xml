@@ -422,30 +422,30 @@
       mozc:dimension="2dip" />
 
   <Drawable android:name="buttonFrameBackgroundDrawable" >
-    <color android:color="#FF21272B" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="narrowFrameBackgroundDrawable" >
-    <color android:color="#FF21272B" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="keyboardFrameSeparatorBackgroundDrawable" >
     <color android:color="#0CFFFFFF" />
   </Drawable>
   <Drawable android:name="symbolSeparatorAboveMajorCategoryBackgroundDrawable" >
-    <color android:color="#CC21272B" />
+    <color android:color="#CC000000" />
   </Drawable>
   <Drawable android:name="windowBackgroundDrawable" >
-    <color android:color="#FF263238" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="conversionCandidateViewBackgroundDrawable" >
-    <color android:color="#FF21272B" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="symbolCandidateViewBackgroundDrawable" >
-    <color android:color="#FF263238" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="symbolMajorCategoryBackgroundDrawable" >
-    <color android:color="#FF263238" />
+    <color android:color="#FF000000" />
   </Drawable>
   <Drawable android:name="scrollBarBackgroundDrawable" >
-    <color android:color="#FF21272B" />
+    <color android:color="#FF000000" />
   </Drawable>
 </Skin>
